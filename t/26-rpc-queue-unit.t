@@ -573,4 +573,5 @@ subtest 'RPC call: handling error response from rpc server' => sub {
         'Got no websocket response';
 };
 
+ok(0, "fail");
 done_testing;
